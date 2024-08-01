@@ -1,0 +1,20 @@
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\bin\Debug\net8.0-windows\InterfataUser.exe
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\bin\Debug\net8.0-windows\InterfataUser.deps.json
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\bin\Debug\net8.0-windows\InterfataUser.runtimeconfig.json
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\bin\Debug\net8.0-windows\InterfataUser.dll
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\bin\Debug\net8.0-windows\InterfataUser.pdb
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\InterfataUser.Form1.resources
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\InterfataUser.Properties.Resources.resources
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\InterfataUser.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\InterfataUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\InterfataUser.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\InterfataUser.AssemblyInfo.cs
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\InterfataUser.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\InterfataUser.dll
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\refint\InterfataUser.dll
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\InterfataUser.pdb
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\InterfataUser.genruntimeconfig.cache
+C:\Users\maria\source\repos\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\ref\InterfataUser.dll
+C:\Users\maria\Downloads\Mircea Maria-Gabriela\Mircea Maria-Gabriela\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\InterfataUser.dll
+C:\Users\maria\Downloads\Mircea Maria-Gabriela\Mircea Maria-Gabriela\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\refint\InterfataUser.dll
+C:\Users\maria\Downloads\Mircea Maria-Gabriela\Mircea Maria-Gabriela\InterfataUser\InterfataUser\obj\Debug\net8.0-windows\InterfataUser.pdb
